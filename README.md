@@ -1,4 +1,4 @@
 # This is my repository for EDA 
 ## Datasets are available in /data folder
-### California House Pricing problem uses Linear Regression
-### Google ads keyword generator added
+
+### All my data analysis projects are listed in this repo.
